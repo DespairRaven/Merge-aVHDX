@@ -1,4 +1,4 @@
-# Merge-aVHDX
+# Merge all the aVHDXs into the parent VHDX
 simple powershell script to merge aVHDX to the parent VHDX
 
 This script is written in PowerShell and is used to merge AVHDX files into their parent VHDX files for virtual machines in Hyper-V. 
